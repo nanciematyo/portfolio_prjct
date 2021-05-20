@@ -634,7 +634,7 @@ Skills
 ===============
 */
 @media screen and (min-width: 768px) {
-  .skill-center {
+  .skills-center {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 2rem;
